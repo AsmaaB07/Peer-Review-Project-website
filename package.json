@@ -1,0 +1,14 @@
+{
+  "name": "learning-project-2",
+  "version": "1.0.0",
+  "description": "Peer-review website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass"
+  },
+  "author": "Asmaa Bouaamri",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
